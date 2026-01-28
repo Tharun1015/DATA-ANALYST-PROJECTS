@@ -5,5 +5,5 @@ Welcome to my Data Analyst portfolio! This repository contains a collection of p
 
 Project Categories
 Excel Projects: Data cleaning and visualization using Excel Power Query and Power Pivot.
-Folder: Excel-Projects
+
 
